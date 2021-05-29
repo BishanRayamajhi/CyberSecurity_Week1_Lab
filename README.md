@@ -13,7 +13,7 @@ The following **required** functionality is complete:
 * [x] Required: Challenge 0 - Setup
 * [x] Required: Challenge 1 - HTTP Headers
 * [x] Required: Challenge 2 - Insecure Direct Object References (IDOR)
-* [x] Required: Challenge 3 -IDOR Challenge 1
+* [x] Required: Challenge 3 - IDOR Challenge 1
 
 The following **optional** features are implemented:
 
